@@ -5,7 +5,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,spring,firebase,postgres,mysql,mongo,sqlite,idea,vscode,androidstudio,linux,docker,git,github&theme=light&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,kotlin,python,spring,firebase,postgres,mysql,idea,vscode,androidstudio,linux,docker,git,github&theme=light&perline=8)](https://skillicons.dev)
 
 ### Github stats
 <img
