@@ -10,7 +10,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 ### Github stats
 <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdalbem&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=pdalbem&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
 />
 
